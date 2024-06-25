@@ -36,3 +36,93 @@
     transform: rotate(360deg);
   }
 }
+
+.cn{
+  max-width: 1480px;
+  width: 0 auto;
+  padding: 0px 50px;
+
+
+}
+
+
+.card {
+  width: 100%;
+  border: 1px solid #ccc;
+  border-radius: 8px;
+  
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  
+  
+}
+
+.card-img-top {
+  width: 100%;
+  height: 241px; /* Высота изображения */
+  object-fit: cover; /* Изображение будет заполнено весь блок, сохраняя пропорции */
+  border-top-left-radius: 8px;
+  border-top-right-radius: 8px;
+}
+
+.card-body {
+  padding: 13px;
+ 
+  text-align: justify;
+  font-size: 13px;
+}
+
+.card-title {
+  font-size: 1.5rem;
+  font-weight: bold;
+  
+}
+
+.card-text {
+  color: #555;
+}
+
+.btn {
+  display: inline-block;
+  padding: 0.5rem 1rem;
+  margin-top: 10px;
+  background-color: #f02484;
+  color: #fff;
+  text-decoration: none;
+  border-radius: 5px;
+}
+
+.btn:hover {
+  background-color: #51cfd3;
+}
+.cart{
+  display: grid;
+  gap: 15px;
+  grid-template-columns: repeat(4, 1fr);
+  
+}
+
+.navbar {
+  background-color: #d232e3;
+  padding: 1rem;
+}
+
+.navbar-brand {
+  color: #ffffff;
+  font-size: 1.8rem;
+  font-weight: bold; 
+}
+
+.nav-link {
+  color: #ffffff;
+  font-size: 1.2rem;
+  margin-right: 1rem;
+}
+
+.nav-link:hover {
+  color: #9900ff;
+}
+
+.container {
+  display: flex;
+  justify-content: space-between;
+}

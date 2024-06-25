@@ -1,0 +1,64 @@
+{
+    "cart": [
+      {
+        "name": "Су-47 \"Беркут\"",
+        "description": "Многоцелевой истребитель 4-го поколения",
+        "price": "50 млн $",
+        "img": "image/su47.jpg"
+      },
+      {
+        "name": "МиГ-31 \"Foxhound\"",
+        "description": "Сверхзвуковой истребитель-перехватчик",
+        "price": "35 млн $",
+        "img": "image/mig31.jpg"
+      },
+      {
+        "name": "Су-30 \"Flanker\"",
+        "description": "Многоцелевой истребитель 4-го поколения",
+        "price": "45 млн $",
+        "img": "image/su30.jpg"
+      },
+      {
+        "name": "Су-27 \"Flanker\"",
+        "description": "Многоцелевой истребитель 4-го поколения",
+        "price": "40 млн $",
+        "img": "image/su27.jpg"
+      },
+      {
+        "name": "Ан-12 \"Cub\"",
+        "description": "Военно-транспортный самолет",
+        "price": "20 млн $",
+        "img": "image/an12.jpg"
+      },
+      {
+        "name": "Ан-26 \"Curl\"",
+        "description": "Военно-транспортный самолет",
+        "price": "15 млн $",
+        "img": "image/an26.jpg"
+      },
+      {
+        "name": "МиГ-29 \"Fulcrum\"",
+        "description": "Многоцелевой истребитель 4-го поколения",
+        "price": "30 млн $",
+        "img": "image/mig29.jpg"
+      },
+      {
+        "name": "Су-35 \"Flanker-E\"",
+        "description": "Многоцелевой истребитель 4-го поколения",
+        "price": "55 млн $",
+        "img": "image/su35.jpg"
+      },
+      {
+        "name": "Ф-22 \"Raptor\"",
+        "description": "Многоцелевой истребитель 5-го поколения",
+        "price": "150 млн $",
+        "img": "image/f22.jpg"
+      },
+      {
+        "name": "Ф-35 \"Lightning II\"",
+        "description": "Многоцелевой истребитель 5-го поколения",
+        "price": "100 млн $",
+        "img": "image/f35.jpg"
+      }
+    ]
+  }
